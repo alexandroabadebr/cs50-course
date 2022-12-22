@@ -1,2 +1,2 @@
-# CC50: Introdução à Ciência da Computação
+# CS50: Introdução à Ciência da Computação
 Repositório criado com o fim de compartilhar a minha jornada através do curso de introdução à ciência da computação, um curso diretamente da Univerdidade de Rarvard que é disponibilizado aqui no Brasil graças a uma iniciativa da Fundação Estudar para estudantes brasileiros intressados em compreender os fundamentos da computação. Vale salientar que os exercícios aqui concluídos por mim estão disponíveis para exemplo e na tentativa de cooperar com a compreensão e aprendizado para outras pessoas. Meu conselho é que aproveite o conteúdo disponível como auxílio para maior compreensão dos exercícios do curso.  
